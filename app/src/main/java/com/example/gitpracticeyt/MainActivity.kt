@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 println("THIS IS MY CONTAINER")
-        thfsfhf is lie
+        println("i don tire")
     }
 }
